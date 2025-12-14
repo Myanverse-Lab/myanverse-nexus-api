@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "myanverse-nexus-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ece4dea4-d172-41d0-8cba-c3953dc51381",
+			"database_name": "myanverse-db-prod"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
